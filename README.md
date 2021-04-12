@@ -8,9 +8,9 @@ Goal:  replicate the analysis described on pages 194-196 of the Stata Treatment 
 
 Plot to reproduce & reproduction:
 
-![plot to reproduce](stata1.png)
+![plot to reproduce](pics/stata1.png)
 ---
-![reproduction](stata2.png)
+![reproduction](pics/stata2.png)
 
 ---
 
@@ -22,9 +22,9 @@ Goal: reproduce the provided plot
 
 Plot to reproduce & reproduction:
 
-![plot to reproduce](r1.png)
+![plot to reproduce](pics/r1.png)
 ---
-![reproduction](r2.png)
+![reproduction](pics/r2.png)
 
 
 
@@ -40,9 +40,9 @@ Goal: reproduce the number of hate crime incidents by bias motivation and locati
 
 Table to reproduce:
 
-![Table to reproduce](spss1.png)
+![Table to reproduce](pics/spss1.png)
 ---
 Reproduction:
 
-![Reproduction](spss2.png)
+![Reproduction](pics/spss2.png)
 

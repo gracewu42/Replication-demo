@@ -20,7 +20,7 @@ Plot to reproduce & reproduction:
 
 Goal: reproduce the provided plot
 
-Plot to reproduce & reproduction:
+Plot to reproduce (credited: Dr. Brandon Gorman) & reproduction:
 
 ![plot to reproduce](pics/r1.png)
 ---
